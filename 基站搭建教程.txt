@@ -1,0 +1,3 @@
+Arduino Pin 7 连接 一个任意的LED
+Arduino Pin 2 连接 HC-08 TX
+Arduino Pin 3 连接 HC-08 RX
